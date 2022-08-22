@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.loginContainer{
+    display:block;
+    width:50%;
+    margin: auto;
+}
+.loginContainer h2{
+    display: block;
+    text-align: left;
+    padding:0px;
+    font-size: 38px;
+}
+.formLogn{
+    width:100%;
+    display: block;
+    border:3px solid #1C2833;
+    border-radius: 15px;
+    margin:0px auto;
+    padding:15px 25px;
+    align-items: center;
+
+}
+.formLogn label{
+    display: block;
+    padding: 10px 0px;
+}
+.formLogn input{
+    font-size: 18px;
+    display: block;
+    padding: 10px 15px;
+    border-radius: 30px;
+    width:92%;
+}
+.formLogn button{
+    font-size: 16px;
+    display: block;
+    padding: 5px 15px;
+    border:1px solid #515A5A;
+    border-radius: 15px;
+    width:auto;
+    margin: 15px 0px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    background-image: linear-gradient(to right top, #f27300, #f56700, #f75a00, #fa4b00, #fc3800, #fd2d06, #fe1e0c, #ff0011, #ff001a, #fe0021, #fe0027, #fd002d);
+}
